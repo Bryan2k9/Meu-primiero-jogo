@@ -10,6 +10,7 @@
     {"name":"inst_6A2BADE3","path":"rooms/rm_inicial/rm_inicial.yy",},
     {"name":"inst_11224FC6","path":"rooms/rm_inicial/rm_inicial.yy",},
     {"name":"inst_670EE3C2","path":"rooms/rm_inicial/rm_inicial.yy",},
+    {"name":"inst_7C21E7C8","path":"rooms/rm_inicial/rm_inicial.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -18,6 +19,7 @@
         {"$GMRInstance":"v4","%Name":"inst_6A2BADE3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6A2BADE3","objectId":{"name":"obj_colisao","path":"objects/obj_colisao/obj_colisao.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":23.34375,"scaleY":1.0,"x":-64.0,"y":768.0,},
         {"$GMRInstance":"v4","%Name":"inst_11224FC6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_11224FC6","objectId":{"name":"obj_botao_jogar","path":"objects/obj_botao_jogar/obj_botao_jogar.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":665.0,"y":445.0,},
         {"$GMRInstance":"v4","%Name":"inst_670EE3C2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_670EE3C2","objectId":{"name":"obj_botao_segundo_jogador","path":"objects/obj_botao_segundo_jogador/obj_botao_segundo_jogador.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":665.0,"y":609.0,},
+        {"$GMRInstance":"v4","%Name":"inst_7C21E7C8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7C21E7C8","objectId":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":896.0,"y":352.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"decoracao","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_7AFE9C63","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_7AFE9C63","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"spriteId":{"name":"spr_decoracao","path":"sprites/spr_decoracao/spr_decoracao.yy",},"x":32.0,"y":-128.0,},
