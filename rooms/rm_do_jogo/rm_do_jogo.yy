@@ -13,6 +13,7 @@
     {"name":"inst_6A2BADE3_1","path":"rooms/rm_do_jogo/rm_do_jogo.yy",},
     {"name":"inst_6054E2CB1","path":"rooms/rm_do_jogo/rm_do_jogo.yy",},
     {"name":"inst_13B918A7_1","path":"rooms/rm_do_jogo/rm_do_jogo.yy",},
+    {"name":"inst_5F404280","path":"rooms/rm_do_jogo/rm_do_jogo.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -24,6 +25,7 @@
         {"$GMRInstance":"v4","%Name":"inst_6A2BADE3_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6A2BADE3_1","objectId":{"name":"obj_colisao","path":"objects/obj_colisao/obj_colisao.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":23.34375,"scaleY":1.0,"x":-64.0,"y":768.0,},
         {"$GMRInstance":"v4","%Name":"inst_6054E2CB1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6054E2CB1","objectId":{"name":"obj_mostrar_pontos","path":"objects/obj_mostrar_pontos/obj_mostrar_pontos.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.0,"scaleY":3.0,"x":450.0,"y":90.0,},
         {"$GMRInstance":"v4","%Name":"inst_13B918A7_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_13B918A7_1","objectId":{"name":"obj_mostrar_pontos_inimigo","path":"objects/obj_mostrar_pontos_inimigo/obj_mostrar_pontos_inimigo.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.0,"scaleY":3.0,"x":870.0,"y":90.0,},
+        {"$GMRInstance":"v4","%Name":"inst_5F404280","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5F404280","objectId":{"name":"obj_musica_fundo","path":"objects/obj_musica_fundo/obj_musica_fundo.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":0.0,"y":0.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"decoracao","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_7AFE9C63_1","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_7AFE9C63_1","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"spriteId":{"name":"spr_decoracao","path":"sprites/spr_decoracao/spr_decoracao.yy",},"x":32.0,"y":-128.0,},

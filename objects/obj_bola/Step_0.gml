@@ -3,6 +3,7 @@ if( x <= -48){
 	y = 384
 	speed = 0
 	alarm[0] = 180
+	direction = choose( 45 , 135 , 225 , 315)
 	global.pontos_direita++	
 }
 else if( x >= 1440){
@@ -10,7 +11,8 @@ else if( x >= 1440){
 	y = 384
 	speed = 0
 	alarm[0] = 180
-		global.pontos_direita++	
+	direction = choose( 45 , 135 , 225 , 315)
+		global.pontos_esquerda++	
 }
 
 global.lugar_da_bola = y
@@ -26,7 +28,9 @@ if(global.pontos_esquerda == global.gols_max){
 		game_restart()
 }	
 
-global.angulo_olhos = obj_bola.image_alpha
+
+
+
 
 
 //podemos pegar caracteristicas do obj assim 

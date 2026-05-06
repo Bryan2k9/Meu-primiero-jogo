@@ -1,0 +1,1 @@
+audio_play_sound(som_musica_de_fundo , 1 , false)

@@ -1,4 +1,8 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_musica_fundo","order":1,"path":"objects/obj_musica_fundo/obj_musica_fundo.yy",},
+    {"name":"som_musica_de_fundo","order":2,"path":"sounds/som_musica_de_fundo/som_musica_de_fundo.yy",},
+    {"name":"som_peido","order":1,"path":"sounds/som_peido/som_peido.yy",},
+  ],
 }
